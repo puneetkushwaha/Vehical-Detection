@@ -1,10 +1,6 @@
 # Vehicle Detection
 > Vehicle Detection Using Deep Learning and YOLO Algorithm.
 
-![GitHub forks](https://img.shields.io/github/forks/maryamboneh/vehicle-detection)
-![GitHub Repo stars](https://img.shields.io/github/stars/maryamboneh/vehicle-detection)
-![GitHub closed issues](https://img.shields.io/github/issues-closed/maryamboneh/vehicle-detection)
-
 
 *(Train YOLO v5 on a Custom Dataset)*
 
@@ -73,10 +69,3 @@ this weight is the result of 128 epoch train on the following dataset.
 https://b2n.ir/vehicleDataset
 ```
 
-## Contributing
-
-1. Fork it (<https://github.com/MaryamBoneh/Vehicle-Detection>)
-2. Create your feature branch (`git checkout -b feature/fooBar`)
-3. Commit your changes (`git commit -am 'Add some fooBar'`)
-4. Push to the branch (`git push origin feature/fooBar`)
-5. Create a new Pull Request
